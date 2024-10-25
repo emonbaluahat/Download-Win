@@ -15,11 +15,11 @@ Microsoft Windows has been a dominant operating system in personal and professio
 
 ### Download Links
 
-| Windows Version                                     | Download Links |
-|----------------------------------------------------------------|--------------|
-|Windows XP| [Download Links](https://github.com)  |
-|  Vista   | [Download Links](https://github.com)  |
-|Windows 7 | [Download Links](https://github.com)  |
-|Windows 8 | [Download Links](https://github.com)  |
-|Windows 10| [Download Links](https://github.com)  |
-|Windows 11| [Download Links](https://github.com)  |
+| Windows Version | Download Links |
+|-----------------|----------------|
+| Windows XP      | [Download Links](https://github.com/emonbaluahat/Download-Win/blob/main/mdfiles/windows_xp_links.md) |
+| Windows Vista   | [Download Links](https://github.com/emonbaluahat/Download-Win/blob/main/mdfiles/windows_vista_links.md) |
+| Windows 7       | [Download Links](https://github.com/emonbaluahat/Download-Win/blob/main/mdfiles/windows_7_links.md) |
+| Windows 8.1     | [Download Links](https://github.com/emonbaluahat/Download-Win/blob/main/mdfiles/windows_8.1_links.md) |
+| Windows 10      | [Download Links](https://github.com/emonbaluahat/Download-Win/blob/main/mdfiles/windows_10_links.md) |
+| Windows 11      | [Download Links](https://github.com/emonbaluahat/Download-Win/blob/main/mdfiles/windows_11_links.md) |
