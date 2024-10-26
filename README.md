@@ -42,3 +42,11 @@ Microsoft Office has been one of the most widely used productivity suites in bot
 | [Office 2019](https://en.wikipedia.org/wiki/Microsoft_Office_2019)      | 2018         | 2025           | 2018–2023         | 2023–2025        |
 | [Microsoft 365](https://en.wikipedia.org/wiki/Microsoft_365) (formerly Office 365) | 2011 (ongoing) | Ongoing       | Ongoing           | Ongoing          |
 
+
+
+# Download Links
+
+| Office Version  | Download Links |
+|-----------------|----------------|
+|Office MSI VL    | [Link](https://github.com/emonbaluahat/Download-Win/blob/main/mdfiles/office_msi_links.md)       |
+|Office for Mac   | [Link](https://github.com/emonbaluahat/Download-Win/blob/main/mdfiles/office_for_mac.md)       |
