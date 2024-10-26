@@ -1,5 +1,4 @@
 ## WINDOWS SECTION
-
 Microsoft Windows has been a dominant operating system in personal and professional computing since its early days. Introduced with a graphical user interface (GUI) in the 1980s, Windows transformed user interaction, making computers more accessible to the average person. Over the years, Windows has gone through several major versions, each reflecting advances in technology, security, and design.
 
 ## Version History
